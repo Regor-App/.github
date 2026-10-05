@@ -33,7 +33,7 @@ As funcionalidades e tecnologias apresentadas no perfil da organização descrev
 | Repositório | Finalidade |
 | --- | --- |
 | [01-sistema-login](https://github.com/Regor-App/01-sistema-login) | Estrutura inicial e proposta do sistema de login e seleção de módulos. |
-| [03-agenda-contatos](https://github.com/Regor-App/03-agenda-contatos) | Repositório reservado ao módulo Agenda de Contatos. |
+| [02-agenda-contatos](https://github.com/Regor-App/02-agenda-contatos) | Agenda desktop em Java e Swing, com contatos, favoritos, busca, persistência local e exportação CSV. |
 | [03-projeto-livre](https://github.com/Regor-App/03-projeto-livre) | Implementação parcial do Regor, script de banco e protótipos de interface. |
 
 O acesso aos repositórios privados depende das permissões concedidas no GitHub. A estrutura inicial deste repositório `.github` segue a proposta descrita no perfil; consulte os repositórios de cada módulo para os arquivos de implementação existentes.
