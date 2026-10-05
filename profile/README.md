@@ -1,22 +1,92 @@
-# Regor-App
+# Regor
 
-Organização acadêmica da disciplina de **Programação Orientada a Objetos (POO)** do IFCE, semestre 2026.2.
+O **Regor** é um projeto desenvolvido para a disciplina de **Programação Orientada a Objetos (POO)**.
 
-## Repositórios
+A aplicação combina elementos de uma rede social com um sistema de descoberta e combinação de pessoas por interesses, permitindo que usuários criem perfis, compartilhem momentos e encontrem pessoas com gostos semelhantes.
 
-- **01-sistema-login:** módulo JavaFX em desenvolvimento, com login didático usando `root` e `toor`.
-- **02-agenda-contatos:** agenda de contatos em Java e Swing.
-- **03-projeto-livre:** projeto Regor em desenvolvimento, com estrutura, banco, documentação e backend já existente.
+## Missão
 
-## Projeto Regor
+Conectar pessoas de forma autêntica por meio do compartilhamento visual de momentos e de algoritmos de combinação por interesses, combinando a dinâmica de rede social com a facilidade de criar conexões reais.
 
-O Regor é uma proposta de aplicação social voltada à conexão entre pessoas por interesses em comum.
+## Visão
 
-## Equipe
+Ser uma plataforma inovadora de interação social e matching, reconhecida pela experiência intuitiva do usuário e por uma arquitetura de software sólida e segura.
 
-- Sócrates
-- Wilson
-- Mateus
-- Philips
+## Valores
 
-A documentação da organização separa claramente funcionalidades implementadas de funcionalidades planejadas.
+- **Conexão Autêntica:** foco em interações reais baseadas em gostos e estilos de vida.
+- **Inovação e Usabilidade:** design moderno e experiência fluida para o usuário.
+- **Segurança e Privacidade:** respeito à proteção dos dados e à privacidade dos usuários.
+
+## Objetivo
+
+Desenvolver uma aplicação social utilizando os conceitos de Programação Orientada a Objetos, permitindo que usuários interajam, compartilhem momentos e encontrem outras pessoas com interesses semelhantes.
+
+## Funcionalidades
+
+- Cadastro de usuários
+- Login
+- Perfil de usuário
+- Edição de perfil
+- Definição de interesses
+- Visualização de outros usuários
+- Sistema de curtidas
+- Sistema de matching
+- Feed de publicações
+- Compartilhamento de momentos
+- Descoberta de pessoas
+
+## Tecnologias
+
+- Java
+- JavaFX
+- FXML
+- Scene Builder
+- Git
+- GitHub
+- IntelliJ IDEA
+
+## Conceitos de POO utilizados
+
+O projeto utiliza conceitos estudados na disciplina, como:
+
+- Classes e objetos
+- Encapsulamento
+- Abstração
+- Herança
+- Polimorfismo
+- Organização em pacotes
+- Separação de responsabilidades
+
+## Estrutura do Projeto
+
+```text
+Regor/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── src/
+│   └── código-fonte
+│
+├── resources/
+│   ├── icons/
+│   └── images/
+│
+├── database/
+│   ├── DER/
+│   ├── DL/
+│   └── scripts/
+│
+├── docs/
+│   ├── uml/
+│   ├── ui-ux/
+│   ├── diagrams/
+│   └── presentations/
+│
+└── support/
+    ├── documents/
+    ├── videos/
+    ├── tutorials/
+    └── references/
