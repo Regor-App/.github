@@ -60,33 +60,20 @@ O projeto utiliza conceitos estudados na disciplina, como:
 
 ## Estrutura do Projeto
 
-```text
-Regor/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── src/
-│   └── código-fonte
-│
-├── resources/
-│   ├── icons/
-│   └── images/
-│
-├── database/
-│   ├── DER/
-│   ├── DL/
-│   └── scripts/
-│
-├── docs/
-│   ├── uml/
-│   ├── ui-ux/
-│   ├── diagrams/
-│   └── presentations/
-│
-└── support/
-    ├── documents/
-    ├── videos/
-    ├── tutorials/
-    └── references/
+A estrutura inicial foi criada no [repositório `.github`](../README.md) da organização. Todas as pastas e subpastas possuem um README com orientações sobre seu uso.
+
+| Pasta | Finalidade |
+| --- | --- |
+| [`src/`](../src/README.md) | Código-fonte Java e lógica da aplicação. |
+| [`resources/`](../resources/README.md) | Telas FXML, estilos, ícones e imagens. |
+| [`database/`](../database/README.md) | DER, diagrama lógico e scripts SQL. |
+| [`docs/`](../docs/README.md) | UML, UI/UX, diagramas gerais e apresentações. |
+| [`support/`](../support/README.md) | Documentos, vídeos, tutoriais e referências de apoio. |
+
+Essas pastas estão preparadas para receber os arquivos do projeto. As funcionalidades acima fazem parte da proposta do Regor e não representam, por si só, recursos já implementados neste repositório.
+
+## Sobre a pasta `profile/`
+
+Esta pasta contém o `README.md` que o GitHub exibe como apresentação pública da organização **Regor-App**. Edite este arquivo para atualizar a missão, a visão, os valores e a apresentação do projeto.
+
+Os guias sobre a organização das demais pastas ficam no [README principal do repositório](../README.md) e nos READMEs de cada pasta.
